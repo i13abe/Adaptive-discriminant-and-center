@@ -1,5 +1,5 @@
 # Adaptive Neuron-wise Discriminant Criterion and Adaptive Center Loss at Hidden Layer for Deep Convolutional Neural Network
-An implementation of "Adaptive Neuron-wise Discriminant Criterion and Adaptive Center Loss at Hidden Layer for Deep Convolutional Neural Network" in Pytorch.
+An implementation of "**Adaptive Neuron-wise Discriminant Criterion and Adaptive Center Loss at Hidden Layer for Deep Convolutional Neural Network**" in Pytorch.
 
 ## How to use
 1. clone the all files to a directory
